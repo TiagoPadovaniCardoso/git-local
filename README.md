@@ -227,23 +227,23 @@ git add nome_arquivo
 ```
 ---
 
-## 19. Salvar alterações
+## 📩 19. Salvar alterações
 > Registra oficialmente as alterações no historico do projeto
 ```
 git comit -m "Mensagem explicando o que mudou"
 ```
 ---
-## 20. Enviar
+##🎩 20. Enviar
 > Enviar as alterações locais para o repositório no GitHub
 ```
 git push origin main #Fazer a primeira vez
 ```
-#### Depois
+####⌚ Depois
 ´´´
 git push
 ´´´
 ---
-## Ferramenta de auxilio: GitFluence IA
+##🤖 Ferramenta de auxilio: GitFluence IA
 ### O GitFluence é uma ferramenta online que ajuda a gerar comandos Giy a partir de descrições em linguagem natural.
 
 #### Por exemplo, você pode digitar:
