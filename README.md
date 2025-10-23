@@ -238,7 +238,7 @@ git comit -m "Mensagem explicando o que mudou"
 ```
 git push origin main #Fazer a primeira vez
 ```
-####⌚ Depois
+#### ⌚ Depois
 ´´´
 git push
 ´´´
